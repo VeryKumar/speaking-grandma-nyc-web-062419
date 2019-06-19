@@ -4,4 +4,4 @@ speak_to_grandma(string)
   elsif string == string.uppercase
     return "NO, NOT SINCE 1938!"
   elsif string == "I LOVE YOU GRANDMA"
-    return "I LOVE GRANDMA!"
+    return "I LOVE YOU TOO PUMPKIN!"
