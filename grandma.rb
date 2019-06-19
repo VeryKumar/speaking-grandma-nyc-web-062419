@@ -1,4 +1,4 @@
-def speak_to_grandma(string)
+speak_to_grandma(string)
   if string != string.uppercase
     return "HUH?! SPEAK UP, SONNY!"
   elsif string == string.uppercase
